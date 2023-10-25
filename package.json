@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Bilal0410/fed-mbn-environment/issues"
   },
-  "homepage": "https://github.com/Bilal0410/fed-mbn-environment#readme"
+  "homepage": "https://github.com/Bilal0410/fed-mbn-environment#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
