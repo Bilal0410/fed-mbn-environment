@@ -1,0 +1,23 @@
+{
+  "name": "fed-mbn-environment",
+  "version": "1.0.0",
+  "description": "This is a lesson activity example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilal0410/fed-mbn-environment.git"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "Bilal Naz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bilal0410/fed-mbn-environment/issues"
+  },
+  "homepage": "https://github.com/Bilal0410/fed-mbn-environment#readme"
+}
